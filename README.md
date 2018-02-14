@@ -1,2 +1,6 @@
 # donation-analytics
-this is a change in the readme
+
+Assumptions:
+ individuals do not donate more than once to a single campaign in a day
+ 
+ 
